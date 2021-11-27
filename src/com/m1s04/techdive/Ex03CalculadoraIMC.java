@@ -1,3 +1,5 @@
+package com.m1s04.techdive;
+
 import java.util.Scanner;
 
 public class Ex03CalculadoraIMC {
