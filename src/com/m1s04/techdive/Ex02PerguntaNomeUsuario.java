@@ -4,7 +4,8 @@ import java.util.Scanner;
 
 public class Ex02PerguntaNomeUsuario {
     public static void main(String[] args) {
-        String nomeUsuario, sobrenomeUsuario;
+        String nomeUsuario;
+        String sobrenomeUsuario;
 
         Scanner scanner = new Scanner(System.in);
 
