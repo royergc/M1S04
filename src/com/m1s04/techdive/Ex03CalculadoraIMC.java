@@ -4,7 +4,10 @@ import java.util.Scanner;
 
 public class Ex03CalculadoraIMC {
     public static void main(String[] args) {
-        double altura, peso, imc;
+        double altura;
+        double peso;
+        double imc;
+
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Por favor, digite sua altura em metros com 2 casas decimais (Ex: 1,82): ");
